@@ -1,0 +1,1 @@
+from .image_stabilizer_proxy import ImageStabilizerProxy
